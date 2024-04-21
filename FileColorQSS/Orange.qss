@@ -1,0 +1,9 @@
+/*背景颜色*/
+QWidget#Color_widget
+{
+    background-color:rgb(236,65,65);
+}
+QWidget#Widget
+{
+     background-color:rgb(255,255,255);
+}
